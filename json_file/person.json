@@ -1,0 +1,37 @@
+[
+    {
+        "name":"pankaj",
+        "age": 20,
+        "height": 185,
+        "gender":"male",
+        "reg_no":"RA2211003020484"
+    },
+    {
+        "name":"jothi",
+        "age": 19,
+        "height": 175,
+        "gender":"male",
+        "reg_no":"RA2211003020476"
+    },
+    {
+        "name":"barath",
+        "age": 21,
+        "height": 180,
+        "gender":"male",
+        "reg_no":"RA2211003020482"
+    },
+    {
+        "name":"taman",
+        "age": 20,
+        "height": 175,
+        "gender":"male",
+        "reg_no":"RA2211003020545"
+    },
+    {
+        "name":"harish",
+        "age": 19,
+        "height": 185,
+        "gender":"male",
+        "reg_no":"RA2211003020451"
+    }
+]
